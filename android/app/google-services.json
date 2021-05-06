@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884219733010",
+    "project_id": "cinemalocator",
+    "storage_bucket": "cinemalocator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884219733010:android:97e458d1aaa85a202ba4cb",
+        "android_client_info": {
+          "package_name": "com.cinemalocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884219733010-6u7g0kj2c4gd453084dgorkjip4ihkq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgI9EqXBZD_3R98zp2ihAJc48LjAfmtfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884219733010-6u7g0kj2c4gd453084dgorkjip4ihkq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
